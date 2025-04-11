@@ -64,6 +64,16 @@ h2 {
   position: relative;
   background-color: white;
 }
+.central-div ion-icon{
+    margin-bottom: 20px;
+    font-size: 70px;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    text-decoration: none; /* Garante que a cor dos icones não será alterada apesar de serem links */
+    color: #708b6c;
+  }
+  
 /* Estilos para a imagem central */
 .central-image {
     max-width: 100%; /* Garante que a imagem não ultrapasse a largura máxima da div */
