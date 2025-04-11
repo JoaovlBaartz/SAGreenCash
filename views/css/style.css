@@ -21,12 +21,12 @@ a[onclick] {
   --blue: #2a2185;
   --white: #fff;
   --gray: #f5f5f5;
-  --black1: #000000;
-  --black2: #999;
-  --green: #93B1A6;
+  --black1: #3f3d3d ;
+  --black2: #837d7d;
+  --green: #708b6c;
   --red: red;
-  --green2: #082711;
-  --green3: #125f1f;
+  --green2: #005951;
+  --green3: #708b6c;
 }
 
 body {
